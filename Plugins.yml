@@ -1,0 +1,14 @@
+name: StupidNamePE
+main: StupidName\StupidNamePE\Main
+version: 1.0
+api: [1.0.0]
+load: POSTWORLD
+author: StrongMod1
+commands: 
+ StupidNamePE.bn:
+  description: "Main Command.Type /bn help to get help page."
+  default: OP
+permissions:
+ StupidNamePE.*:
+  description: "StupidName"
+  default: true
