@@ -1,0 +1,3 @@
+# StupidNamePE
+
+PLUGIN FOR POCKETMINE
